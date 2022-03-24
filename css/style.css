@@ -68,6 +68,8 @@ a:link, a:visited{
 	color: blue;
 }
 .skip{
+	position: absolute;
+	left: -999px;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	display: inline-block;
 	border: 3px solid black;
